@@ -1,4 +1,3 @@
-import { Inter_500Medium } from '@expo-google-fonts/inter';
 import { View, Image, FlatList } from 'react-native';
 
 import logoImg from '../../assets/logo-nlw-esports.png'
